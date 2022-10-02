@@ -1,2 +1,4 @@
+
+
 # Drug_Classification_Problem
-A ML model that predict the the most appropriate drug for each patient (Kaggle Competition) 
+In this notebook we tried to use diffrent machine learning models in order to predict the the most appropriate drug for each patient (Kaggle Competition) 
